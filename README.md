@@ -22,3 +22,5 @@ The dashboard is organized into two main pages, each focusing on different aspec
 
 
 ---
+![image](https://github.com/user-attachments/assets/4686bb82-14f6-4a7d-b560-41e9aa2d4580)
+![image](https://github.com/user-attachments/assets/66101b91-5bb7-47bb-80b0-e085a30b8417)
